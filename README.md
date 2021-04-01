@@ -1,2 +1,2 @@
-# discord-github-pr-bots
+# discord-github-pr-bot
 A Discord bot for PR notifications
